@@ -25,8 +25,8 @@ Make sure that all the necessary preparations have been completed.**</u>
 ## 2. Project Components
 ### <span style="background-color:yellow; color:black;">2.1 Data Acquisition by Web Mining</span>
 <div style="display: flex;">
-    <img src="Image/web2.png" style="width: 50%;">
-    <img src="Image/web3.png" style="width: 50%;">
+    <img src="Image/web2.png" style="width: 40%;">
+    <img src="Image/web3.png" style="width: 40%;">
 </div>
 
 - **News Release Text Data Acquisition**: Automated scripts use Selenium and BeautifulSoup to scrape news release texts from the BLS website. The script navigates the website, extracts relevant data, and stores it for analysis.
