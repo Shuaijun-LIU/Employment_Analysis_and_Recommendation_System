@@ -1,5 +1,5 @@
 # Employment Analysis and Recommendation System Based on NLP and Data Modeling
-### *CS 688 Project in 2024
+
 ### <u>*Author:</u> [Shuaijun Liu: — Click here to go to my Personal Web Page](https://shuaijun-liu.github.io/)
 
 <p align="center">
